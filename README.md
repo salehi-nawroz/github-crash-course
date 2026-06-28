@@ -1,2 +1,2 @@
 Important instructions
-Thi si sa demo
+This is a demo on github 
